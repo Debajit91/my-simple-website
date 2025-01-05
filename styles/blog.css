@@ -24,3 +24,17 @@ p{
     text-align: justify;
     font-size: large;
 }
+.increment{
+    background-color:antiquewhite;
+    color:black;
+    padding: 10px;
+    margin: 10px;
+}
+.command{
+    font-size: 20px;
+}
+.fourth{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
